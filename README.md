@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently student
-- 🌱 I’m currently learning Frontend and UI designing
+<!--
+- 🌱 I’m currently learning Frontend and UI designing -->
 - ⚡ Fun fact: Fixing Bugs Is An Art 😉
 <!-- ##
 
