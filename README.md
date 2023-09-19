@@ -20,8 +20,6 @@ Here are some ideas to get you started:
   <h1>I'm Tharunkumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-
-- 🔭 I’m currently student
 <!--
 - 🌱 I’m currently learning Frontend and UI designing -->
 - ⚡ Fun fact: Fixing Bugs Is An Art 😉
